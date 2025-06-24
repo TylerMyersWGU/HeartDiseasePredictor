@@ -17,13 +17,8 @@ The dataset used is the **Heart Failure Clinical Records Dataset**, which includ
 - `diabetes`: Whether the patient has diabetes (boolean)
 - `ejection_fraction`: Percentage of blood leaving the heart at each contraction
 - `high_blood_pressure`: Whether the patient has high blood pressure (boolean)
-- `platelets`: Platelet count in the blood
-- `serum_creatinine`: Level of creatinine in the blood
 - `serum_sodium`: Level of sodium in the blood
 - `sex`: Gender of the patient
-- `smoking`: Whether the patient smokes (boolean)
-- `time`: Follow-up period (days)
-- `DEATH_EVENT`: Target variable (1 if the patient died during follow-up, 0 otherwise)
 
 ## 🔍 Key Features
 
